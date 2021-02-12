@@ -1,0 +1,170 @@
+/*<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    li {
+        display: inline;
+    }
+
+    #about {
+
+    }
+
+    #store {
+
+    }
+
+    #logo {
+        max-width: 100%
+        height: auto;
+        text-align: center;
+        display: block;
+        object-fit: contain;
+        margin: auto;
+    }
+
+    #searchbar {
+        text-align: center;
+        display: block;
+        margin: auto;
+    }
+
+    p {
+        text-align: center;
+        display: block;
+        margin: auto;
+    }
+
+    input {
+        width: 500px;
+    }
+
+    #advertising {
+        background-color: gray;
+
+    }
+
+    #business {
+        text-decoration: none;
+    }
+    
+    #howsearchworks {
+
+    } 
+
+    .gray-background {
+        background-color: #D3D3D3;
+        padding: 20px;
+    }
+
+    #footer {
+        position: absolute;
+        bottom: 0;
+        width:100%;
+        height: 50px;
+        left: 0;
+        background: #D3D3D3;
+
+    }
+
+    a {
+        color: black;
+    }
+
+    #privacy {
+        float: left;
+        text-align: left;
+    }
+
+    .topnav {
+        overflow: hidden;
+    }
+
+    .topnav .search-bar {
+        float: center;
+    }
+
+    .topnav input[type=text] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+    }
+
+    .search-bar {
+        float: none;
+        display: block;
+        text-align: left;
+        width: 100%;
+        margin: 0;
+        padding: 14px;
+    }
+
+    .search-bar button {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+    }
+
+    @media screen and (max-width:600px) {
+        .topnav .search-bar {
+            float: none;   
+    } 
+    .topnav input[type=text], .topnav .topnav input[type=text]{
+        border: 1px solid #ccc;
+    }
+}
+</style> 
+
+
+
+</style>
+<html lang="en"></html>
+<head>
+<title> Google</title>
+</head>
+
+<body>
+    <h1></h1>
+    <ul>
+        <li><a href="#about" style="text-decoration: none">About<a></li>
+        <li><a href="#store" style="text-decoration: none">Store<a></a></li>
+    </ul><br><br><br><br><br><br><br>
+<br>
+
+<img id="logo" src="google-logo/googlelogo_color_272x92dp.png" alt="Google Logo"><br>
+<br>
+<label></label>
+<input id="searchbar" type="text" name="google">
+<br>
+
+<!--<div class="search-bar">
+    <form action="/actionpage.php">
+        <input type="text" name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    
+    </form>
+</div>-->
+
+<br>
+<p>Google Offered in:  <a href="https://www.google.com/" target="_blank">Francais</a></p>
+<br>
+</body>
+<div id="footer">
+<footer>
+    <ul>
+        <li><a href="#advertising" style="text-decoration: none" >Advertising</a></li>
+        <li><a href="#business" style="text-decoration: none">Business</a></li>
+        <li><a href="#howsearchworks" style="text-decoration: none">How Search Works</a></li>
+        <li><a href="#privacy" style="text-decoration: none">Privacy</a></li>
+    </ul>
+</footer>
+</div>
+</html>-->
